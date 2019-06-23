@@ -1,0 +1,16 @@
+{
+  "name": "index",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d HTML"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/carinama1/LoveStory3000.git",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
